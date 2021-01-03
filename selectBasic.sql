@@ -8,5 +8,5 @@ begin
 end
 else
 begin
-select 'Aucune donnée' AS 'ANSWER'
+	select 'Aucune donnée' AS 'ANSWER'
 end
